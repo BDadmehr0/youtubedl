@@ -1,5 +1,7 @@
 # 🎯 YouTube Downloader (GitHub Actions)
 
+**EN** | [Persian Version](README_FA.md)
+
 Automatically download YouTube videos using GitHub Actions – no local tools needed, Free and without International Internet  .
 Videos are stored directly in your repository, with optional subtitles, quality selection and password protection.
 
